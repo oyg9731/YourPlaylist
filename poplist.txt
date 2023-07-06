@@ -1,0 +1,4 @@
+가수명      제목
+================
+Ariana      greedy
+Ariana      away
